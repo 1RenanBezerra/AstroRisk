@@ -80,7 +80,7 @@ O projeto foi desenvolvido na **Global Solution 2026.1 — FIAP**, com tema **Ec
 ```bash
 git clone https://github.com/aflauris/AstroRisk
 cd AstroRisk
-python3 -m pip install -r requiremens.txt
+python3 -m pip install -r requirements.txt
 ```
 
 **Fase 2 — Configurar variáveis de ambiente:**
